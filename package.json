@@ -1,0 +1,8 @@
+{
+	"name": "Live Keys",
+	"id": "live-keys",
+	"main": "index.js",
+	"license": "MIT",
+	"description": "Live keys plugin",
+	"author": "Marc Espín Sanz"
+}
